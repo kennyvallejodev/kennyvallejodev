@@ -26,4 +26,3 @@
 
 
 ![Github Overview](https://github-readme-stats.vercel.app/api?username=kennyvallejodev)
-![Github Overview](https://github-readme-stats.vercel.app/api?username=kennyvallejoc)
