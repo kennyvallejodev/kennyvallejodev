@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/kennyvallejodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenny_vallejo97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kennyvallejoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennyvallejoc" height="30" width="40" /></a>
-<a href="https://instagram.com/keenyy1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keenyy1997" height="30" width="40" /></a>
+<a href="https://instagram.com/kenny.vallejoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keenyy1997" height="30" width="40" /></a>
 <a href="https://discord.gg/239555524255809536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="keenyy1997#0778" height="30" width="40" /></a>
 </p>
 
