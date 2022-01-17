@@ -5,17 +5,15 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I (sometimes) write articles on [https://goodcoder.app/](https://goodcoder.app/)
+- 💬 Ask me about **Javascript**
 
-- 💬 Ask me about **React, Javascript, Dart**
-
-- 📫 How to reach me **keenyy1997@gmail.com**
+- 📫 How to reach me **personal@kennyvallejo.com**
 
 - 📄 Know about my experiences [https://kennyvallejo.com/#positions](https://kennyvallejo.com/#positions)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kenny_vallejo97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenny_vallejo97" height="30" width="40" /></a>
+<a href="https://twitter.com/kennyvallejodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenny_vallejo97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kennyvallejoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennyvallejoc" height="30" width="40" /></a>
 <a href="https://instagram.com/keenyy1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keenyy1997" height="30" width="40" /></a>
 <a href="https://discord.gg/239555524255809536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="keenyy1997#0778" height="30" width="40" /></a>
