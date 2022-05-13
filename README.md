@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kenny</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [GABA](https://www.gogaba.co/)
+- 🔭 I’m currently working on [SoWork](https://www.sowork.com/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Javascript**
 
